@@ -1,180 +1,93 @@
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                  GERMÁN CAMILO BERNAL MUÑOZ                  ║
-║                    BACKEND DEVELOPER v2.0                    ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
 
-  <img width="180" src="assets/img/camilo.jpg" alt="Camilo Bernal" style="border-radius: 50%; border: 3px solid #0ff; box-shadow: 0 0 40px rgba(0,255,255,0.9), inset 0 0 40px rgba(0,255,255,0.3); filter: contrast(1.1) brightness(1.05);" />
+  <img width="180" src="assets/img/camilo.jpg" alt="Camilo Bernal" style="border-radius: 50%; border: 3px solid #00f5ff; box-shadow: 0 0 25px rgba(0,245,255,0.8), 0 0 45px rgba(255,0,255,0.35);" />
 
-  <h1 style="font-size: 2.5em; color: #0ff; text-shadow: 0 0 20px #0ff, 0 0 40px #00f;">GERMÁN CAMILO BERNAL</h1>
-  <p style="font-size: 1.2em; color: #00ff88; text-shadow: 0 0 10px #00ff88;">◆ BACKEND ENGINEER ◆ SYSTEMS ARCHITECTURE ◆ CYBERSECURITY ◆</p>
-  
-  <p style="color: #0ff; font-size: 0.95em;">
-    <code>📍 PASTO, COLOMBIA</code> · <code>🎓 CESMAG (7° SEMESTRE)</code> · <code>⏱️ EST. 2028</code>
+  <h1><img src="https://emojicdn-api.draft.dev/emoji/1f44b.svg" width="28" /> Germán Camilo Bernal Muñoz</h1>
+  <h3>Desarrollador Backend • Estudiante de Ingeniería de Sistemas</h3>
+  <p><strong>📍 Pasto, Colombia</strong> · <strong>🎓 CESMAG</strong> · <strong>7° semestre</strong></p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/camilo-bernal-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:germancamilobernal@hotmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/Camilo-git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
-  <br/>
-
-  <a href="https://www.linkedin.com/in/camilo-bernal-dev">
-    <img src="https://img.shields.io/badge/LINKEDIN-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000&labelColor=000033" alt="LinkedIn" />
-  </a>
-  <a href="mailto:germancamilobernal@hotmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-00FF88?style=for-the-badge&logo=gmail&logoColor=000&labelColor=000033" alt="Email" />
-  </a>
-  <a href="https://github.com/Camilo-git">
-    <img src="https://img.shields.io/badge/GITHUB-0033FF?style=for-the-badge&logo=github&logoColor=fff&labelColor=000033" alt="GitHub" />
-  </a>
-
 </div>
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- ▶ SYSTEM STATUS: ONLINE
- ▶ DEVELOPER MODE: ACTIVE
- ▶ CODE QUALITY: OPTIMIZED
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1500&color=00F5FF&center=true&vCenter=true&width=700&lines=PHP+%7C+Laravel+%7C+MySQL;Desarrollo+Backend;Ciberseguridad+%7C+Linux+%7C+Docker;Codigo+limpio+%7C+Soluciones+escalables" />
+</p>
 
 ---
 
-## ◇ ABOUT_SYSTEM
+## 🚀 Sobre mí
 
-Soy un desarrollador backend con enfoque en arquitectura escalable y segura. Me especializo en **PHP, Laravel y MySQL**, con experticia complementaria en ciberseguridad, Linux, Docker y cloud computing.
+Soy estudiante de Ingeniería de Sistemas con una fuerte pasión por el desarrollo backend y la creación de soluciones eficientes, seguras y escalables. Me especializo en PHP, Laravel, MySQL y buenas prácticas de software, además de complementar mi perfil con ciberseguridad, Linux y Docker.
 
-Estoy en séptimo semestre de Ingeniería de Sistemas y busco constantemente optimizar mis skills en desarrollo backend, seguridad de aplicaciones y buenas prácticas de ingeniería de software.
-
-```
-STATUS: [████████████████████] LEARNING & BUILDING
-```
+Estoy en séptimo semestre y mi objetivo es seguir creciendo como desarrollador backend enfocado en la calidad, la seguridad y la arquitectura de software.
 
 ---
 
-## ◇ CORE_TECHNOLOGIES
+## 🧠 Stack principal
 
 <div align="center">
 
-  ### ▶ PRIMARY STACK
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-  ### ▶ SECONDARY STACK
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-
-  ### ▶ INFRASTRUCTURE & TOOLS
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-  ### ▶ FRAMEWORKS & TOOLS
-  ![Filament](https://img.shields.io/badge/Filament-3ECF8E?style=flat-square&logo=laravel&logoColor=white)
-  ![PHPUnit](https://img.shields.io/badge/PHPUnit-7785F1?style=flat-square)
-  ![Scrum](https://img.shields.io/badge/Scrum-6A5ACD?style=flat-square)
-  ![MVC](https://img.shields.io/badge/MVC_PATTERN-00FFD4?style=flat-square)
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHPUnit-7785F1?style=for-the-badge&logo=phpunit&logoColor=white" />
 
 </div>
 
 ---
 
-## ◇ DEPLOYED_PROJECTS
+## 🚀 Proyectos destacados
 
-### ▸ `registro-grados-cesmag` [ ACTIVE ]
-**Sistema de Registro y Asistencia de Grados**
-- Stack: `Laravel` · `Filament` · `MySQL` · `Livewire`
-- Features: Panel admin completo · Autenticación segura · Reportes en PDF
-- Status: En producción para CESMAG
+### [registro-grados-cesmag](https://github.com/Camilo-git/registro-grados-cesmag)
+Sistema de registro y asistencia de grados con Laravel, Filament y MySQL.
 
-### ▸ `web-ME` [ ACTIVE ]
-**Plataforma de Control de Préstamos**
-- Stack: `PHP` · `MySQL` · `JavaScript` · `Bootstrap`
-- Features: Gestión de inventario · Histórico de préstamos · Reportes dinámicos
-- Status: Operativo
+### [web-ME](https://github.com/Camilo-git/web-ME)
+Control de préstamos de material audiovisual, desarrollado con PHP, MySQL y JavaScript.
 
-### ▸ `TESTS` [ TESTING ]
-**Calculadora PHP con Cobertura Completa**
-- Stack: `PHP` · `PHPUnit` · `Unit Testing`
-- Features: Tests automatizados · Best practices en QA
-- Status: En desarrollo
+### [TESTS](https://github.com/Camilo-git/TESTS)
+Calculadora en PHP con pruebas unitarias usando PHPUnit.
 
 ---
 
-## ◇ PERFORMANCE_METRICS
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Camilo-git&show_icons=true&theme=nightowl&hide_border=false&title_color=00ffff&icon_color=00ff88&text_color=ffffff&bg_color=000814&border_color=0033ff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo-git&layout=compact&theme=nightowl&hide_border=false&title_color=00ffff&text_color=ffffff&bg_color=000814&border_color=0033ff" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Camilo-git&show_icons=true&theme=radical&hide_border=true&title_color=00F5FF&icon_color=00F5FF&text_color=F5F5F5&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilo-git&layout=compact&theme=radical&hide_border=true&title_color=00F5FF&text_color=F5F5F5&bg_color=0D1117" alt="Top Languages" />
 
 </div>
 
 ---
 
-## ◇ CURRENT_OBJECTIVES
+## 🎯 Enfoque actual
 
-```
-[▓▓▓▓▓▓▓▓░░] 80% - Dominar arquitectura SOLID y patrones de diseño
-[▓▓▓▓▓▓░░░░] 60% - Ciberseguridad avanzada en aplicaciones web
-[▓▓▓▓▓▓▓░░░] 70% - DevOps y CI/CD con Docker y Kubernetes
-[▓▓▓▓▓▓░░░░] 60% - Cloud Computing (AWS, Azure, Google Cloud)
-[▓▓▓▓▓▓▓▓▓░] 90% - Clean Code y mejores prácticas
-```
+- Desarrollo backend con Laravel y PHP
+- Diseño y optimización de bases de datos
+- Seguridad y buenas prácticas
+- Linux, Docker y automatización
+- Ciberseguridad y software escalable
 
 ---
 
-## ◇ FOCUS_AREAS
+## 📬 Contacto
 
-- **Backend Engineering** → PHP, Laravel, Node.js
-- **Database Architecture** → MySQL, PostgreSQL, Optimization
-- **Security** → Application hardening, encryption, best practices
-- **DevOps** → Docker, Linux, automation, CI/CD
-- **Software Design** → SOLID, Design Patterns, Clean Code
-- **Testing** → Unit testing, integration testing, QA
+[LinkedIn](https://www.linkedin.com/in/camilo-bernal-dev) • [Email](mailto:germancamilobernal@hotmail.com) • [GitHub](https://github.com/Camilo-git)
 
----
-
-## ◇ CONTACT_PROTOCOLS
-
-<div align="center">
-
-  **LinkedIn** → https://www.linkedin.com/in/camilo-bernal-dev
-
-  **Email** → germancamilobernal@hotmail.com
-
-  **GitHub** → https://github.com/Camilo-git
-
-  <br/>
-
-  ```
-  Always Open For:
-  ▶ Freelance Projects
-  ▶ Collaboration
-  ▶ Tech Discussions
-  ▶ Learning Opportunities
-  ```
-
-</div>
-
----
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  SYSTEM READY • ALWAYS LEARNING • BUILDING SCALABLE SOLUTIONS ║
-║                    Last Updated: 2026-10-12                  ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-  ![Always Learning](https://img.shields.io/badge/Always%20Learning-%23FF00FF?style=for-the-badge&logo=lightning&logoColor=00FFFF)
-  ![Building Solutions](https://img.shields.io/badge/Building%20Solutions-%2300FFFF?style=for-the-badge&logo=rocket&logoColor=FF00FF)
-  ![Open To Collaborate](https://img.shields.io/badge/Open%20To%20Collaborate-%2300FF88?style=for-the-badge&logo=handshake&logoColor=000)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Siempre%20aprendiendo-%23FFB703?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Construyendo%20soluciones-%2300F5FF?style=for-the-badge" />
+</p>
